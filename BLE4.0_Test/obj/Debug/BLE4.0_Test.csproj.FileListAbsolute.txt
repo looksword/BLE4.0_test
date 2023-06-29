@@ -1,0 +1,11 @@
+D:\Test\BLE4.0_Test\BLE4.0_Test\obj\Debug\BLE4._0_Test.Form1.resources
+D:\Test\BLE4.0_Test\BLE4.0_Test\obj\Debug\BLE4._0_Test.Properties.Resources.resources
+D:\Test\BLE4.0_Test\BLE4.0_Test\obj\Debug\BLE4.0_Test.csproj.GenerateResource.cache
+D:\Test\BLE4.0_Test\BLE4.0_Test\obj\Debug\BLE4.0_Test.csproj.CoreCompileInputs.cache
+D:\Test\BLE4.0_Test\BLE4.0_Test\bin\Debug\BLE4.0_Test.exe.config
+D:\Test\BLE4.0_Test\BLE4.0_Test\bin\Debug\BLE4.0_Test.exe
+D:\Test\BLE4.0_Test\BLE4.0_Test\bin\Debug\BLE4.0_Test.pdb
+D:\Test\BLE4.0_Test\BLE4.0_Test\bin\Debug\Windows.winmd
+D:\Test\BLE4.0_Test\BLE4.0_Test\obj\Debug\BLE4.0_Test.csproj.CopyComplete
+D:\Test\BLE4.0_Test\BLE4.0_Test\obj\Debug\BLE4.0_Test.exe
+D:\Test\BLE4.0_Test\BLE4.0_Test\obj\Debug\BLE4.0_Test.pdb
